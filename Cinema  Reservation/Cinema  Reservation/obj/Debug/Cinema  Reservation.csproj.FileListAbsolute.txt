@@ -1,0 +1,10 @@
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\bin\Debug\Cinema  Reservation.exe.config
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\bin\Debug\Cinema  Reservation.exe
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\bin\Debug\Cinema  Reservation.pdb
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\obj\Debug\Cinema  Reservation.csprojResolveAssemblyReference.cache
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\obj\Debug\Cinema__Reservation.Cinema.resources
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\obj\Debug\Cinema__Reservation.Properties.Resources.resources
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\obj\Debug\Cinema  Reservation.csproj.GenerateResource.Cache
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\obj\Debug\Cinema  Reservation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\obj\Debug\Cinema  Reservation.exe
+C:\Users\HP\Music\Cinema  Reservation\Cinema  Reservation\Cinema  Reservation\obj\Debug\Cinema  Reservation.pdb
